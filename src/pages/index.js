@@ -1,0 +1,16 @@
+export { default as Basketball } from "./Basketball";
+export { default as Casino } from "./Casino";
+export { default as Home } from "./Home";
+export { default as Inplay } from "./Inplay";
+export { default as Kabaddi } from "./Kabaddi";
+export { default as Parent } from "./Parent";
+export { default as Soccer } from "./Soccer";
+export { default as Tennis } from "./Tennis";
+export { default as MultiMarkets } from "./MultiMarkets";
+export { default as HorseRacing } from "./HorseRacing";
+export { default as GreyHoundRacing } from "./GreyHoundRacing";
+export { default as Cricket } from "./Cricket";
+export { default as Politics } from "./Politics";
+export { default as Lottery } from "./Lottery";
+export { default as Binary } from "./Binary";
+export { default as VirtualSports } from "./VirtualSports";
